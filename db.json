@@ -1,0 +1,28 @@
+{
+  "wallets": [
+    {
+      "name": "Wallet 1",
+      "owner_id": "bf2bf95be1e341e98a52a79ec6149afe",
+      "id": "bf2bf95be1e341e98a52a79ec6149afe"
+    },
+    {
+      "name": "Wallet 2",
+      "owner_id": "8445a727714a4414a885f2e2e2a22f52",
+      "id": "8445a727714a4414a885f2e2e2a22f52"
+    }
+  ],
+  "transactions": [
+    {
+      "from": "bf2bf95be1e341e98a52a79ec6149afe",
+      "amount": 10,
+      "wallet": "bf2bf95be1e341e98a52a79ec6149afe",
+      "id": "AJk5hdc"
+    },
+    {
+      "from": "8445a727714a4414a885f2e2e2a22f52",
+      "amount": 20,
+      "wallet": "8445a727714a4414a885f2e2e2a22f52",
+      "id": "-6EKz0u"
+    }
+  ]
+}
